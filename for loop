@@ -1,0 +1,8 @@
+code.monkey(challenge 30)
+for giraffe in giraffes:
+    # Change the height for each giraffe
+   giraffe.height=3
+for snake in snakes:
+    # Change the length for each snake
+    snake.length=5
+    
