@@ -1,0 +1,2 @@
+for giraffe in giraffes:
+    giraffe.height = 5
