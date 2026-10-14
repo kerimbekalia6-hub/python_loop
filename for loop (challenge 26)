@@ -1,0 +1,2 @@
+for whale in whales:
+    whale.blow(7)
